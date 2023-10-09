@@ -20,7 +20,7 @@ console.log(animes,"")
   console.log("nose commit")
 
   return (
-    <main className="bg-black min-h-screen text-white pt-5 text-lg">
+    <main className="bg-black min-h-screen text-white pt-5 text-xl">
       <h1 className="text-center text-2xl font-semibold">Anime Searcher</h1>
 
       <form onSubmit={handleSubmit}
