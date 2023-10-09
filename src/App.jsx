@@ -13,7 +13,7 @@ function App() {
     
     axios.get(`https://api.jikan.moe/v4/anime?q=${animeName}`).then(({data})=>setAnimes(data.data)).catch((err)=>console.log(err))
   }
-console.log(animes,"animessss")
+console.log(animes,"")
   console.log("br",animes)
 
   console.log("tercer commit")
