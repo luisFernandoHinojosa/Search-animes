@@ -15,12 +15,12 @@ function App() {
   }
 console.log(animes,"")
   console.log("br",animes)
-
+  console.log("culerito")
   console.log("tercer commit")
   console.log("nose commit")
 
   return (
-    <main className="bg-black min-h-screen text-white pt-5 text">
+    <main className="bg-black min-h-screen text-white pt-5 text-xl">
       <h1 className="text-center text-2xl font-semibold">Anime Searcher</h1>
 
       <form onSubmit={handleSubmit}
