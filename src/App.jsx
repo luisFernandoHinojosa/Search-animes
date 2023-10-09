@@ -15,7 +15,7 @@ function App() {
   }
 console.log(animes,"")
   console.log("br",animes)
-
+  console.log("culerito")
   console.log("tercer commit")
 
   return (
