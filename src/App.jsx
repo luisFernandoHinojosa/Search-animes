@@ -16,6 +16,8 @@ function App() {
 console.log(animes,"animessss")
   console.log("br",animes)
 
+  console.log("tercer commit")
+
   return (
     <main className="bg-black min-h-screen text-white pt-5">
       <h1 className="text-center text-2xl font-semibold">Anime Searcher</h1>
